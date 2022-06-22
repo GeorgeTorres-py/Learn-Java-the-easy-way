@@ -22,5 +22,7 @@ public class HiLo {
             System.out.println("Would you like to play again? (y/n)");
             playAgain = scan.next();
     }   while (playAgain.equalsIgnoreCase("y"));
+        System.out.println("Thanks for playing my first java game!");
+        scan.close();
     }
 }
