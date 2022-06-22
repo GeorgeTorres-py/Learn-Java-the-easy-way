@@ -41,7 +41,6 @@ is true
 • Scanning integers and strings from the keyboard and storing them in
 variables
 • Testing various conditional expressions in if and if-else statements
-Build a Hi-Lo Guessing Game App! 39
 • Using String methods to compare string values with equalsIgnoreCase()
 • Closing input resources like Scanner objects with the close() method
 multi line comments
