@@ -87,3 +87,19 @@ public class GuessingGame extends JFrame {
 		theGame.setVisible(true);
 	}
 }
+
+/*
+what i learned building my first gui in java
+
+Creating GUI windows by importing the javax.swing package
+• Setting up a GUI app in Eclipse
+• Designing a GUI with the WindowBuilder Editor
+• Using the Properties pane to change GUI component properties
+• Naming GUI components consistently for easy use in Java code
+• Connecting GUI elements to Java variables and programming code
+• Getting user text from a JTextField and using it in a program
+• Listening for user events, like button clicks
+• Improving the user experience, or UX, by testing the app with the user
+in mind
+• Handling exceptions with try-catch-finally
+**/
